@@ -1,4 +1,4 @@
-# 2021-daily-algo-시즌2
+# 2021-daily-algo
 
 ver2021
 

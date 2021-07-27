@@ -1,6 +1,6 @@
 # 2021-daily-algo
 
-ver2021
+**ver2021**
 
 <h1 align="center">
 	<img src="Hedgehog.png" alt="Hedgehog" width="380" />
